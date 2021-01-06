@@ -8,6 +8,7 @@ public class EntryPoint {
     public static void main(String[] args) {
 
         //taskFactory.getTaskZeroProcessor().process();
-        taskFactory.getTaskFirstProcessor().process();
+        //taskFactory.getTaskFirstProcessor().process();
+        taskFactory.getTaskSecondProcessor().process();
     }
 }
